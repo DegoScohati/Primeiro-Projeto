@@ -1,0 +1,24 @@
+
+.minha-foto {
+    width: 250px; /*Largura*/
+    height: 250px; /*Altura*/
+    border-radius: 100%;  
+    border: 1px solid black;
+}
+
+.logo {
+    width: 15px;
+}
+
+/* 
+    para classes, usamos um "."
+    para IDs, usamos um "#"
+    +++++++++++++++++++++++++++++++++
+    Largura = width: ;
+    Altura = height: ;
+    Para arredondar os cantos = border-radius: ;
+    Para ficar redondinha, precisa colocar a metade do tamanho da foto,
+    Ou: 50%
+    +++++++++++++++++++++++++++++++++
+
+*/
